@@ -2,6 +2,9 @@
 
 ## ✏️ Study
 
+- https://yotdark.tistory.com/48
+- [[Android] 안드로이드 그리드 뷰(GridView) 사용하기 (1)](https://yotdark.tistory.com/48)
+
 ## 🌍 Setting
 
 - CompileSdk = 30
