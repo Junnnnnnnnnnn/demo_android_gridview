@@ -3,7 +3,8 @@
 ## ✏️ Study
 
 - https://yotdark.tistory.com/48
-- [[Android] 안드로이드 그리드 뷰(GridView) 사용하기 (1)](https://yotdark.tistory.com/48)
+- [[Android] 안드로이드 그리드 뷰(GridView) 사용하기 (1)](https://github.com/Junnnnnnnnnnn/android_study/blob/master/List_gridView/%5BAndroid%5D%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%B7%B0(GridView)%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20(1).md)
+- [[Android] 안드로이드 그리드 뷰(GridView) 사용하기 (2)](https://github.com/Junnnnnnnnnnn/android_study/blob/master/List_gridView/%5BAndroid%5D%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%B7%B0(GridView)%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20(2).md)
 
 ## 🌍 Setting
 
